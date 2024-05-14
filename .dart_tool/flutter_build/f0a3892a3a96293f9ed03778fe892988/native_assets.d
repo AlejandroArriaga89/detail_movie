@@ -1,0 +1,1 @@
+ /Users/alextron/Apps/detail_movie/.dart_tool/flutter_build/f0a3892a3a96293f9ed03778fe892988/native_assets.yaml: 
